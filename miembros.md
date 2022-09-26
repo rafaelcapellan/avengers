@@ -4,6 +4,7 @@
 * Black Widow
 * Capitán America
 * Falcon
+* Capitana Marvel NO es miembro
 * Hank Pym
 * Hawkeye
 * Hulk
